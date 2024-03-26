@@ -26,11 +26,11 @@ The following plots display the training and validation loss, as well as the tra
 <!-- Display two images side by side with captions -->
 <div style="display: flex; justify-content: space-around;">
   <figure style="margin: 0;">
-    <img src="Loss_20.png" alt="Image 1" style="width: 45%;">
+    <img src="Loss_20.png" alt="Image 1" style="width: 25%;">
     <figcaption style="text-align: center;">Figure 1: Description of Image 1</figcaption>
   </figure>
   <figure style="margin: 0;">
-    <img src="Accuracy_20.png" alt="Image 2" style="width: 45%;">
+    <img src="Accuracy_20.png" alt="Image 2" style="width: 25%;">
     <figcaption style="text-align: center;">Figure 2: Description of Image 2</figcaption>
   </figure>
 </div>
