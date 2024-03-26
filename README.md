@@ -8,8 +8,8 @@ The model architecture used in this project consists of multiple convolutional l
 
 <img src="Model.png" alt="The proposed methodology is visually depicted through three primary stages. The first stage is dedicated
 to extracting intrinsic features, followed by the second stage, which focuses on learning intricate feature
-relationships. The final stage involves the output layer, where the network generates predictions" width="800" height="400">
-<img src="inception_block.png" alt="Illustration of the Inception block used for the feature extraction" width="800" height="400">
+relationships. The final stage involves the output layer, where the network generates predictions">
+<img src="inception_block.png" alt="Illustration of the Inception block used for the feature extraction" width="300" height="300">
 ## Loss and Accuracy Plots
 The following plots display the training and validation loss, as well as the training and validation accuracy during the model training process:
 
