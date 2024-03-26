@@ -22,9 +22,9 @@ relationships. The final stage involves the output layer, where the network gene
 
 ## Loss and Accuracy Plots
 The following plots display the training and validation loss, as well as the training and validation accuracy during the model training process:
+<!-- Display two images side by side with captions  style="display: flex; justify-content: space-around;" -->
 <!-- Display two images side by side with captions -->
-<!-- Display two images side by side with captions -->
-<div style="display: flex; justify-content: space-around;">
+<div>
   <figure style="margin: 0;">
     <img src="Loss_20.png" alt="Image 1" style="width: 30%;">
     <figcaption>Figure 1: Description of Image 1</figcaption>
