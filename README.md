@@ -7,7 +7,7 @@ This project implements a supervised anomaly detection method for video surveill
 The model architecture used in this project consists of multiple convolutional layers, Inception modules, and fully connected layers for feature extraction and classification. The detailed architecture is as follows:
 <p align="center">
   <figure>
-    <img src="Model.png" alt="Inception Block Diagram" width="300" height="300">
+    <img src="Model.png" alt="Inception Block Diagram">
     <figcaption>Figure 1: The proposed methodology is visually depicted through three primary stages. The first stage is dedicated
 to extracting intrinsic features, followed by the second stage, which focuses on learning intricate feature
 relationships. The final stage involves the output layer, where the network generates predictions</figcaption>
@@ -23,11 +23,18 @@ relationships. The final stage involves the output layer, where the network gene
 ## Loss and Accuracy Plots
 The following plots display the training and validation loss, as well as the training and validation accuracy during the model training process:
 
-Training and Validation Loss Plot
-![alt text](Loss_20.png)
-Training and Validation Accuracy Plot
-![alt text](Accuracy_20.png)
-
+<p align="center">
+  <figure>
+    <img src="Loss_20.png" alt="loss" width="300" height="300">
+    <figcaption>Figure 3:Train and validation loss plot </figcaption>
+  </figure>
+</p>
+<p align="center">
+  <figure>
+    <img src="Accuracy_20.png" alt="loss" width="300" height="300">
+    <figcaption>Figure 4:Training and Validation Accuracy Plot </figcaption>
+  </figure>
+</p>
 ## Requirements
 - please see requirements.txt file
 
