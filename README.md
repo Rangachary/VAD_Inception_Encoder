@@ -25,8 +25,8 @@ The following plots display the training and validation loss, as well as the tra
 <!-- Display two images side by side with captions  style="display: flex; justify-content: space-around;" -->
 <!-- Display two images side by side with captions -->
 <p float="left">
-  <img src="Loss_20.png" width="1000" />
-  <img src="/Accuracy_20.png" width="1000" /> 
+  <img src="Loss_20.png" width="500" />
+  <img src="/Accuracy_20.png" width="500" /> 
 </p>
 
 ## Requirements
