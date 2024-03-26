@@ -40,6 +40,7 @@ The following plots display the training and validation loss, as well as the tra
 <p align="center">
   <figure>
     <img src="Loss_20.png" alt="loss" width="300" height="300">
+     <img src="Accuracy_20.png" alt="loss" width="300" height="300">
     <figcaption>Figure 3:Train and validation loss plot </figcaption>
   </figure>
 </p>
